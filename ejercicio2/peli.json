@@ -1,0 +1,17 @@
+[{
+    "titulo": "Glass",
+    "sinopsis": "Con el paso de los años, Elijah Price, recluido en una institución mental donde lo mantienen sedado, se ha rendido. Pero este villano es demasiado inteligente y, a pesar del tratamiento al que le somete la Doctora Ellie Staple (Sarah Paulson), tiene un plan para escapar.",
+    "estreno": "2019-01-18",
+    "edad": 12,
+    "genero": [
+        "thriller",
+        "suspense"
+    ],
+    "sesiones": [
+        "12:00",
+        "14:00",
+        "17:30",
+        "20:00"
+    ],
+    "img":"img/glass.jpeg"
+}]

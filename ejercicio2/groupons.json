@@ -1,0 +1,9 @@
+{
+    "nombre": "Clases de tenis",
+    "descripcion": "Clases de tenis en Palma de Mallorca",
+    "categoria": ["sport"],
+    "descuento": 20,
+    "precioIni": 100,
+    "precioFin": 80,
+    "img":"img/tennis.jpeg"
+}

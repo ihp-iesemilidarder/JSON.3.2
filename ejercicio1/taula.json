@@ -1,0 +1,30 @@
+[
+    {
+        "ID": 1,
+        "Nom i llinatges": "Cristina Torrelló Fuster",
+        "Telefon": "648-898-769",
+        "Especialitat": ["pentester"],
+        "Departaments": "sistemes"
+    },
+    {
+        "ID": 3,
+        "Nom i llinatges": "Joan Gomila",
+        "Telefon": "631-445-779",
+        "Especialitat": ["Python"],
+        "Departaments": "Desenvolupament"
+    },
+    {
+        "ID": 2,
+        "Nom i llinatges": "Sara Gómez",
+        "Telefon": "653-378-889",
+        "Especialitat": ["Java"],
+        "Departaments": "Desenvolupament"
+    },
+    {
+        "ID": 4,
+        "Nom i llinatges": "Xavi Caraibe",
+        "Telefon": "908-456-789",
+        "Especialitat": ["Nómines"],
+        "Departaments": "Administració"
+    }
+]

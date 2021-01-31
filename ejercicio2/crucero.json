@@ -1,0 +1,21 @@
+[{
+    "titulo": "Crucero santa cruz",
+    "puertoSalida": "Santa cruz de tenerife",
+    "descripcion": "El crucero más grande jamá visto",
+    "Finicio": "2020-01-25",
+    "Ffin": "2020-03-01",
+    "precio": 40,
+    "ciudades":[
+        {
+            "nombre": "Baleares",
+            "pais": "España",
+            "dias": 4
+        },
+        {
+            "nombre": "Mosul",
+            "pais": "Irak",
+            "dias": 6
+        }
+    ],
+    "img":"img/crucero.jpeg"
+}]

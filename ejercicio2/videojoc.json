@@ -1,0 +1,13 @@
+[{
+    "titulo": "Watch Dogs 2",
+    "genero": ["Mundo Abierto","Accion-aventura","sigilo","Hackeo"],
+    "categoria": ["mundo abierto","accion-aventura"],
+    "PEGI":18,
+    "precio":20,
+    "desarrollador":"Ubisoft Montreal",
+    "editor":["jonathan Morin","Danny Bélanger","Dominic Guay","Mathieu Leduc","Lucien Soulban","Hudson Mohawke"],
+    "lanzamiento":"2016-11-15",
+    "plataforma":["Microsoft Windows","PlayStation 4","Xbox One"],
+    "idioma":["Español","Inglés"],
+    "img":"img/watch.png"
+}]
